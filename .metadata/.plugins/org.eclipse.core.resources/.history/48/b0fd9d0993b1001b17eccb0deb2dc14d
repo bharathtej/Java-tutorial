@@ -1,0 +1,13 @@
+package HelloWorld;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		/*"public" is used because java runtime has to find this method
+		 * "Static is used to run a class without creating a object because of the constructor issues
+		 * "Void" is return type of the method as java runtime not need any return value from the main method
+		 * "main" is the exact method name 
+		 */
+		System.out.println("Hello World!");
+	}
+
+}
