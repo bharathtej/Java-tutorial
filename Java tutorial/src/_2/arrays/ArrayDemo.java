@@ -1,4 +1,4 @@
-package arrays;
+package _2.arrays;
 
 public class ArrayDemo {
 
