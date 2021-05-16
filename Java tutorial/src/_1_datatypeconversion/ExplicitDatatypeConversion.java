@@ -1,4 +1,4 @@
-package _1.datatypeconversion;
+package _1_datatypeconversion;
 
 public class ExplicitDatatypeConversion {
 	/* The conversion in which larger range data type is converted into 

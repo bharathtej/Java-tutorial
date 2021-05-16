@@ -1,4 +1,4 @@
-package _4.Operators;
+package _4_Operators;
 
 public class ComparisonDemo {
 	public static void main(String[] args) {

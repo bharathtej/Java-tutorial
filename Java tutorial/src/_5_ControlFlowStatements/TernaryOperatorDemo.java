@@ -1,4 +1,4 @@
-package _5.ControlFlowStatements;
+package _5_ControlFlowStatements;
 
 public class TernaryOperatorDemo {
 	public static void main(String[] args) {

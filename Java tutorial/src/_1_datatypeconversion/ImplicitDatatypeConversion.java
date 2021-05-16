@@ -1,4 +1,4 @@
-package _1.datatypeconversion;
+package _1_datatypeconversion;
 
 public class ImplicitDatatypeConversion{
 	

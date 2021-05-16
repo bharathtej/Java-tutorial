@@ -1,4 +1,4 @@
-package _5.ControlFlowStatements;
+package _5_ControlFlowStatements;
 
 public class IfElse {
 	
