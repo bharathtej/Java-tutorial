@@ -57,9 +57,9 @@ The bitwise | operator performs a bitwise inclusive OR operation.*/
 		
 		//left shift <<
 		
-				// after shifting right new bit which comes on far left are assigned zero "0"
+		// after shifting right new bit which comes on far left are assigned zero "0"
 				
-				System.out.println("5 right shift by 1 bit is "+(5>>1));
+		System.out.println("5 right shift by 1 bit is "+(5>>1));
 		
 	}
 	

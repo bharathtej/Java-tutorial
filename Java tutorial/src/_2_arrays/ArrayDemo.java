@@ -2,6 +2,7 @@ package _2_arrays;
 
 public class ArrayDemo {
 
+	// These are also called as One dimensional Array
 	public static void main(String[] args) {
 		// Arrays are container object that holds fixed number of values of single type
 		
