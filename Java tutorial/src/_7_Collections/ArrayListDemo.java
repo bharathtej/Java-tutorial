@@ -15,7 +15,7 @@ public class ArrayListDemo {
 		
 		List<Integer> arrayList = new ArrayList<Integer>(5);
 		
-/* -----interface---------------------concrete implementation*/
+	/* -----interface---------------------concrete implementation*/
 		
 		// add new elements to the list
 		
