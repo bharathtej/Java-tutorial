@@ -38,13 +38,17 @@ the benefits of a goto without its problems.*/
 						break outer;
 					System.out.print(j+" ");
 					
+					
+					
 				}
 				
 				System.out.println("This will won't print");
 			
 		}
 	
-		System.out.println("This  will be printed because of break of outer loop");
+	
+		System.out.println();
+		System.out.print("This  will be printed because of break of outer loop");
 	}
 	
 	
